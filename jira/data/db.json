@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "title": "Frontend Tarafındaki Vue Js Geliştirmeleri",
+      "details": "Frontend Tarafındaki Vue Js Geliştirmeleri",
+      "complete": true,
+      "id": "2"
+    },
+    {
+      "title": "React İşlemleri",
+      "details": "React İşlemlerinin Yapılması",
+      "complete": false,
+      "id": "63172"
+    }
+  ]
+}
